@@ -1,3 +1,8 @@
+This repository contains notebooks from the Deep Learning AI course, which I have uploaded to GitHub for the sole purpose of learning and personal reference. The materials in this repository are used for educational and skill development purposes only.
+
+# Disclaimer
+Please note that the notebooks, code snippets, and any other materials present in this repository are sourced from the Deep Learning AI course and may be subject to copyright and usage restrictions by the course creators. The intention behind sharing these materials on GitHub is strictly for self-improvement and educational purposes.
+
 # Ungraded Lab - Deploying a Deep Learning model
  
 ## Introduction
